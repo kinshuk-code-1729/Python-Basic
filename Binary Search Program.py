@@ -1,3 +1,4 @@
+# Binary Search Algorithm
 def binarySearch (arr, first, last, x):
     if last >= first:
         mid =int( first + (last - first)/2)
