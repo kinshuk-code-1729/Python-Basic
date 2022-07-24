@@ -2,7 +2,7 @@
 def binarySearch (arr, first, last, x):
     if last >= first:
         mid =int( first + (last - first)/2)
-        if arr[mid] == x:
+        if arr[mid] == x: # checking for middle value
             return mid
         elif arr[mid] > x:
             return binarySearch(arr, first, mid-1, x)
