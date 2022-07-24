@@ -4,9 +4,9 @@ def binarySearch (arr, first, last, x):
         mid =int( first + (last - first)/2)
         if arr[mid] == x: # checking for middle value
             return mid
-        elif arr[mid] > x:
+        elif arr[mid] > x: # if element present at left side of list
             return binarySearch(arr, first, mid-1, x)
-        else:
+        else:              # if element present at right side of list
             return binarySearch(arr, mid+1, last, x)
     else:
         return -1
