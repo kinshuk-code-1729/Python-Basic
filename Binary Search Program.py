@@ -5,9 +5,9 @@ def binarySearch (arr, first, last, x):
         if arr[mid] == x: # checking for middle value
             return mid
         elif arr[mid] > x: # if element present at left side of list
-            return binarySearch(arr, first, mid-1, x)
+            return binarySearch(arr, first, mid-1, x)               # recursive call
         else:              # if element present at right side of list
-            return binarySearch(arr, mid+1, last, x)
+            return binarySearch(arr, mid+1, last, x)                # recursive call
     else:
         return -1
 
