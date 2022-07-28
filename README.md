@@ -19,12 +19,12 @@ Python is an interpreted, interactive, object-oriented programming language. It 
 Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.
 
 ## ✨Merits of Python✨
- - Presence of third-party modules.
- - Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics, etc.)
- - Open source and large active community base.
- - Versatile, Easy to read, learn and write.
- - User-friendly data structures.
- - High-level language.
+ - *Presence of third-party modules.*
+ - *Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics, etc.).*
+ - *Open source and large active community base.*
+ - *Versatile, Easy to read, learn and write.*
+ - *User-friendly data structures.*
+ - *High-level language.*
 
 ## ✨Future of Python✨
 The future of Python is thus set in stone as the go-to language for developers engaging in deep machine learning projects, companies looking to scale up by using big data analytics or efforts aimed at achieving social applications of automation.
