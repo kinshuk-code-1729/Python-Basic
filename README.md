@@ -1,5 +1,4 @@
-[![Python (Basic) Certificate](https://github.com/kinshuk-code-1729/Python-Basic/assets/90320839/305ae5cb-a2a0-4f2a-8dcc-13a48adc9992)]
-(https://www.hackerrank.com/certificates/3db1b2c30a84)
+![image](https://github.com/kinshuk-code-1729/Python-Basic/assets/90320839/305ae5cb-a2a0-4f2a-8dcc-13a48adc9992)
 
 ## ✨What is Python ???✨
 *Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected.*
